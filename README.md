@@ -1,2 +1,3 @@
 # hello-world
 First repository on github
+My name is Christopher Mcshann. I code..sometimes...
